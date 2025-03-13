@@ -1,7 +1,7 @@
 # 🎟️ Round-Robin Coupon Distribution (Internship Assignment)
 
 ## 🚀 Live Demo
-🔗 [View Live App](https://your-live-app-url.com)
+🔗 [View Live App](https://coupon-frontend-five.vercel.app/)
 
 ---
 
